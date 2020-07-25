@@ -9,7 +9,7 @@
   <properties>
     <webVersion>4.0</webVersion>
     <hibernate-version>5.1.0.Final</hibernate-version>
-    <hibernate-validator-version>5.2.4.Final</hibernate-validator-version>
+    <hibernate-validator-version>6.1.5.Final</hibernate-validator-version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>
